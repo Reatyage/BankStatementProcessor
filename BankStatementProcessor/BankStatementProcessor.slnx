@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../BankStatementProcessor.Tests/BankStatementProcessor.Tests.csproj" Id="3ea51265-c82f-4c85-b6fb-df9d07438b31" />
+  <Project Path="../BankStatementProcessor.WPF/BankStatementProcessor.WPF.csproj" Id="8c12274e-a73f-4375-a1bf-9546e23d1a2b" />
+  <Project Path="BankStatementProcessor.csproj" />
+</Solution>

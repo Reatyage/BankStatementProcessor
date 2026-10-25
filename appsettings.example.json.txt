@@ -1,0 +1,13 @@
+{
+  "EmailSettings": {
+    "ImapServer": "imap.mail.ru",
+    "Port": 993,
+    "Email": "ТВОЯ_ПОЧТА@example.com",
+    "Password": "ТВОЙ_ПАРОЛЬ_ПРИЛОЖЕНИЯ"
+  },
+  "StorageSettings": {
+    "IncomingFolder": "C:\\BankStatements\\Incoming",
+    "ProcessedFolder": "C:\\BankStatements\\Processed",
+    "IgnoredFolder": "C:\\BankStatements\\Ignored"
+  }
+}
