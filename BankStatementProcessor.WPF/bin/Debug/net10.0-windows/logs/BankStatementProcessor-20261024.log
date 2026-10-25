@@ -1,7 +1,0 @@
-2026-10-24 15:19:36.789 +05:00 [INF] === WPF Приложение запущено: "2026-10-24T15:19:36.7833125+05:00" ===
-2026-10-24 15:19:37.950 +05:00 [INF] ✅ Загружено 5 контрагентов из C:\Users\user\Desktop\BankStatementProcessor\BankStatementProcessor.WPF\bin\Debug\net10.0-windows\counterparties.json
-2026-10-24 15:19:37.974 +05:00 [INF] ✅ Загружено 9 категорий из C:\Users\user\Desktop\BankStatementProcessor\BankStatementProcessor.WPF\bin\Debug\net10.0-windows\categories.json
-2026-10-24 15:19:38.000 +05:00 [INF] ✅ Гибридный ИИ инициализирован. Загружено 5 шаблонов контрагентов
-2026-10-24 15:19:39.753 +05:00 [INF] ✅ Загружено 5 контрагентов из C:\Users\user\Desktop\BankStatementProcessor\BankStatementProcessor.WPF\bin\Debug\net10.0-windows\counterparties.json
-2026-10-24 15:19:39.754 +05:00 [INF] ✅ Загружено 9 категорий из C:\Users\user\Desktop\BankStatementProcessor\BankStatementProcessor.WPF\bin\Debug\net10.0-windows\categories.json
-2026-10-24 15:19:39.755 +05:00 [INF] ✅ Гибридный ИИ инициализирован. Загружено 5 шаблонов контрагентов

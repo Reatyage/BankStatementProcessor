@@ -1,7 +1,0 @@
-C:\Users\user\Desktop\BankStatementProcessor\publish\BankStatementProcessorApp.pdb
-C:\Users\user\Desktop\BankStatementProcessor\publish\BankStatementProcessor.runtimeconfig.json
-C:\Users\user\Desktop\BankStatementProcessor\publish\counterparties.json
-C:\Users\user\Desktop\BankStatementProcessor\publish\appsettings.json
-C:\Users\user\Desktop\BankStatementProcessor\publish\categories.json
-C:\Users\user\Desktop\BankStatementProcessor\publish\BankStatementProcessor.pdb
-C:\Users\user\Desktop\BankStatementProcessor\publish\BankStatementProcessorApp.exe
